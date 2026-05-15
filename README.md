@@ -37,8 +37,8 @@ Bu depo, Java tabanlı örnek bir API regresyon test paketini içerir. **RestAss
 
 1. **Depoyu klonlayın:**
    ```bash
-   git clone https://github.com/belerumut/api-regression-test.git
-   cd api-regression-test
+   git clone https://github.com/belerumut/RestAssured-API-Regresyon-Testi.git
+   cd RestAssured-API-Regresyon-Testi
    ```
 
 2. **Ortam Değişkenlerini Yapılandırın:**
